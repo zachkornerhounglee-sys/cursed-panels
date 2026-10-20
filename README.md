@@ -1,6 +1,6 @@
 # CURSED PANELS — JJK boss rush
 
-A single-file browser boss rush with solo mode and up to four-player, host-authoritative co-op. The game is bundled in `index.html`; no install is needed to play solo.
+An arcade-styled, single-file browser boss rush with solo mode and up to four-player, host-authoritative co-op. The cabinet-style visuals use a deep purple backdrop, gold trim, pink bloom, and hand-drawn anime curse sprites. The game is bundled in `index.html`; no install is needed to play solo.
 
 ## Play
 

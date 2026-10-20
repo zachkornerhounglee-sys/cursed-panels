@@ -2,7 +2,7 @@
 
 **Loop:** title screen > lobby and character selection > four boss fights > perk draft between bosses > victory / wipe > lobby.
 
-**Presentation:** dark cursed arena with a restrained violet grid, character-coloured silhouettes, neon edge lighting, a lower-third dialogue plate, and reduced default flashes. Settings include Performance / Balanced / High graphics, auto-strike, bloom, lens flares, motion trails, screen shake, hit flash, floating damage numbers, particles, background detail and master volume. A Shift dash moves quickly and grants brief invulnerability, with a visible cooldown meter.
+**Presentation:** arcade cabinet presentation inspired by the supplied reference: deep purple backdrop, gold trim, rose-pink outer glow, crisp floor grid, hand-drawn character sprites, character-coloured neon edge lighting, a lower-third dialogue plate, and reduced default flashes. Settings include Performance / Balanced / High graphics, auto-strike, bloom, lens flares, motion trails, screen shake, hit flash, floating damage numbers, particles, background detail and master volume. A Shift dash moves quickly and grants brief invulnerability, with a visible cooldown meter.
 
 **Boss identities:**
 - **Jogo:** meteor marks, sweeping Ember Fan volleys and staggered eruptions.

@@ -1,0 +1,8 @@
+CURSED PANELS — ARCADE STYLE UPDATE
+
+- Re-themed the presentation with a deep purple arcade backdrop, warm gold trim, and rose-pink cabinet glow inspired by the supplied reference game.
+- Rebuilt the static arena backdrop with finer floor marks, subtle star specks, gold corner ticks, and a pink lit arena frame.
+- Replaced abstract player orbs with small hand-drawn anime-style vector sprites for Itadori, Fushiguro, Ieiri, and Gojo.
+- Replaced abstract boss blobs with distinct Jogo, Hanami, Mahito, and Sukuna silhouettes while preserving attacks, hitboxes, dialogue, domains, Last Stand, and host authority.
+- Added gold talisman motifs to the domain effects.
+- Updated the HTML UI cards, buttons, fighter selection, and settings to match the arcade palette.
