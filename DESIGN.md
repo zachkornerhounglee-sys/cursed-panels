@@ -2,7 +2,7 @@
 
 **Loop:** title screen > lobby and character selection > four boss fights > perk draft between bosses > victory / wipe > lobby.
 
-**Presentation:** dark cursed arena with a restrained violet grid, character-coloured silhouettes, neon edge lighting, a lower-third dialogue plate, and reduced default flashes. Settings include Performance / Balanced / High graphics, auto-strike, screen shake, hit flash, floating damage numbers, particles, background detail and master volume.
+**Presentation:** dark cursed arena with a restrained violet grid, character-coloured silhouettes, neon edge lighting, a lower-third dialogue plate, and reduced default flashes. Settings include Performance / Balanced / High graphics, auto-strike, bloom, lens flares, motion trails, screen shake, hit flash, floating damage numbers, particles, background detail and master volume. A Shift dash moves quickly and grants brief invulnerability, with a visible cooldown meter.
 
 **Boss identities:**
 - **Jogo:** meteor marks, sweeping Ember Fan volleys and staggered eruptions.
@@ -12,7 +12,7 @@
 
 All bosses have unique intro dialogue and two health-threshold taunts; Mahito and Sukuna also announce their domains. Dialogue is part of the host snapshot, so co-op players see the same line at roughly the same time.
 
-**Netcode:** host-authoritative WebRTC star; clients send inputs at about 30 Hz and snapshots are broadcast at about 20 Hz. Snapshot backpressure, projectile / warning-zone caps and bounded effect queues reduce bandwidth and stale-update buildup during congestion. Host authority means the shared game state remains consistent, but restrictive Wi-Fi/NAT settings can still prevent WebRTC connections.
+**Netcode:** host-authoritative WebRTC star; clients send inputs at about 30 Hz and snapshots are broadcast at about 20 Hz. Snapshot backpressure, projectile / warning-zone caps and bounded effect queues reduce bandwidth and stale-update buildup during congestion. Dash activation and direction are simulated by the host and replicated as compact player state. Host authority means the shared game state remains consistent, but restrictive Wi-Fi/NAT settings can still prevent WebRTC connections.
 
 **Domains:** one at a time. Casting into an active boss domain (or the boss casting into yours) starts a 4-second Domain Clash mash; the winner's domain takes over, the loser takes damage / stun.
 
