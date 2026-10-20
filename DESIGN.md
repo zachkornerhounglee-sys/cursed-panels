@@ -22,3 +22,7 @@ All bosses have unique intro dialogue and two health-threshold taunts; Mahito an
 | Fushiguro, Summoner | Divine Dog: homing shikigami | Toad Decoy: boss aggro bait that bites | Chimera Shadow Garden: slows boss, sure-hit |
 | Ieiri, Support | Ofuda Needle: fast seal | Reverse Technique: heal + revive nearby | Sanctum of Mending: boss stop, slow and regen field |
 | Gojo, Glass Cannon | Blue: drags boss in | Hollow Purple: charged piercing blast | Unlimited Void: boss frozen, sure-hit; Infinity can auto-block shots |
+
+
+## Neon domains and Last Stand
+Domains render with layered neon barriers, rotating sigils, lens flares, and character-specific motifs. Every boss enters a 30-second invulnerable Last Stand at 20% HP; all players see the same timer and must dodge that boss’s accelerated, signature attack patterns. The boss becomes vulnerable again when the timer ends.

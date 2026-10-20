@@ -17,7 +17,7 @@ The settings menu includes auto-strike, Performance / Balanced / High graphics, 
 
 ## Bosses and dialogue
 
-Jogo uses meteor marks, flame fans and eruptions; Hanami creates root lattices, seed bursts and bloom zones; Mahito uses soul fans, transfiguration marks and pinwheel bursts; Sukuna uses rapid Dismantle volleys, cross-cleaves and Shrine slash zones. Each boss has intro dialogue, health-threshold taunts, and domain dialogue.
+Jogo uses meteor marks, flame fans and eruptions; Hanami creates root lattices, seed bursts and bloom zones; Mahito uses soul fans, transfiguration marks and pinwheel bursts; Sukuna uses rapid Dismantle volleys, cross-cleaves, Shrine slash zones, World-Cut lanes and an execution grid. Jogo, Hanami and Mahito also gain new signature patterns. Every boss enters a 30-second, invulnerable Last Stand when reduced to 20% HP. During this phase, player attacks cannot damage the boss and its attack patterns become faster and more aggressive; survive the timer, then finish the fight. Each boss has unique Last Stand dialogue. Each boss has intro dialogue, health-threshold taunts, and domain dialogue.
 
 Between bosses, each player chooses one of three perks. Clear all four bosses to win.
 
